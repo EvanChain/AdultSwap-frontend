@@ -1,16 +1,25 @@
 {
-  "name": "my-react-project",
+  "name": "adult-swap",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@heroicons/react": "^2.2.0",
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.2.0",
     "@testing-library/user-event": "^13.5.0",
+    "autoprefixer": "^10.4.21",
+    "ethers": "5.7.2",
+    "framer-motion": "^12.6.2",
+    "postcss": "^8.5.3",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
+    "react-router-dom": "^7.4.1",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "styled-components": "^6.1.16",
+    "tailwindcss": "^4.0.17",
+    "web-vitals": "^2.1.4",
+    "web3modal": "^1.9.12"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -35,5 +44,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }
