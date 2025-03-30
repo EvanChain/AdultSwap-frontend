@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AdultSwap-frontend/static/css/main.6958066f.css",
+    "main.js": "/AdultSwap-frontend/static/js/main.cad17c38.js",
+    "static/js/453.29b9746b.chunk.js": "/AdultSwap-frontend/static/js/453.29b9746b.chunk.js",
+    "index.html": "/AdultSwap-frontend/index.html",
+    "main.6958066f.css.map": "/AdultSwap-frontend/static/css/main.6958066f.css.map",
+    "main.cad17c38.js.map": "/AdultSwap-frontend/static/js/main.cad17c38.js.map",
+    "453.29b9746b.chunk.js.map": "/AdultSwap-frontend/static/js/453.29b9746b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6958066f.css",
+    "static/js/main.cad17c38.js"
+  ]
+}
